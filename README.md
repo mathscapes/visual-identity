@@ -1,1 +1,1 @@
-# visual-identity
+visual-identity
